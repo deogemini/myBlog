@@ -36,13 +36,13 @@
                                         </a>
                                     </div>
                                 <div class="d-none d-md-block">
-                                    <a href="http://facebook.com" class="text-white">
-                                        <i class="fab fa-facebook"></i>
+                                    <a href="https://www.linkedin.com/in/deogratias-gemini-bb53a9188/" class="text-white">
+                                        <i class="fab fa-linkedin"></i>
                                     </a>
                                 </div>
                                 <div>
                                     <a href="http://instagram.com" class="text-white">
-                                        <i class="fab fa-instagram"></i>
+                                        <i class="fa fa-envelope"></i>
                                     </a>
                                 </div>
                               </div>
@@ -74,7 +74,7 @@
                                         </i>
                                     </div>
                                     <div class="port-item p-4 bg-danger" data-toggle="collapse" data-target="#contact">
-                                        <i class="fas fa-envelope fa-2x d-block">
+                                        <i class="fas fa-mobile fa-2x d-block">
                                             <span class="d-none d-sm-block">
                                                 Contact
                                             </span>
