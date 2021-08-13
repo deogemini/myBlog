@@ -26,12 +26,12 @@
                               <div class="d-flex flex-row justify-content-between align-items-center">
                                   <h1 class="display-4">Deogratias Gemini</h1>
                                   <div>
-                                      <a href="http://twitter.com" class="text-white">
+                                      <a href="https://twitter.com/Deogemini99?s=09" class="text-white">
                                         <i class="fab fa-twitter"></i> 
                                     </a>
                                   </div>
                                     <div>
-                                        <a href="http://github.com" class="text-white">
+                                        <a href="https://github.com/deogemini" class="text-white">
                                             <i class="fab fa-github"></i>
                                         </a>
                                     </div>
@@ -41,7 +41,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="http://instagram.com" class="text-white">
+                                    <a href="geminideogratias.com" class="text-white">
                                         <i class="fa fa-envelope"></i>
                                     </a>
                                 </div>
