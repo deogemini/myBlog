@@ -247,15 +247,14 @@
             <div class="card card-body bg-danger text-white py-5">
                 <h2>Contact</h2>
                 <p class="lead">
-                    adipisicing elit. Omnis,distinctio facere tenetur. Numquam exercitationem adipisci, accusamus dolorum minima,
-                    dolorem blanditiis dicta in molestias harum recusandae!
+                    Since i have finished my studies of my career and i am looking foward to new challenges, any one who need my service you may send an email direct to me and i will respond immedietely to you
                 </p>
             </div>
 
             <div class="card card-body py-5">
                 <h3>Find me at</h3>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, facere odio. Assumenda autem nisi laborum.
+                    write down your name and the email and fill the body of context to explain about service ou need to me and i will respond direct to your email.
                 </p>
                 <form action="#">
                     <div class="form-group">
@@ -285,10 +284,10 @@
                                 <i class="fas fa-pencil-alt"></i>
                             </span>
                         </div>
-                        <textarea class="form-control bg-dark text-white" placeholder="Suggestions"></textarea>
+                        <textarea class="form-control bg-dark text-white" placeholder="body of info"></textarea>
                     </div>
                 </div>
-                <input type="submit" value="Submit" class="btn btn-danger btn-block btn-lg">
+                <input type="submit" value="Click to send" class="btn btn-danger btn-block btn-lg">
                 </form>
             </div>
         </div>
