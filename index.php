@@ -195,14 +195,13 @@
             <div class="card card-body bg-warning text-white py-5">
                 <h2>My Work</h2>
                 <p class="lead">
-                    adipisicing elit. Omnis,distinctio facere tenetur. Numquam exercitationem adipisci, accusamus dolorum minima,
-                    dolorem blanditiis dicta in molestias harum recusandae!
+                    At this part is for testmony for the projects and works which i have done and others are still going on to be developed and also maintained
                 </p>
             </div>
 
             <div class="card card-body py-5">
                 <h3>What Have I Built?</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, nulla dolore aliquam minima necessitatibus repudiandae?</p>
+                <p>I have created some many projects and doing some works but bellow are some sample pictures for projects that have been finished on implentation</p>
             <div class="row no-gutters">
                 <div class="col-md-3">
                     <a href="https://unsplash.it/1200/768.jpg?image=252" data-toggle="lightbox">
