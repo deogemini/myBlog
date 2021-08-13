@@ -91,15 +91,16 @@
             <div id="home" class="collapse-show">
                 <div class="card card-body bg-primary text-white py-5">
                     <h2>Welcome To My Page</h2>
-                    <p class="lead">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
- adipisicing elit. Omnis,distinctio facere tenetur. Numquam exercitationem adipisci, accusamus dolorum minima, dolorem blanditiis dicta in molestias harum recusandae!
+                    <p class="lead">   
+                    This is my own website which will be explaining my profile in this career.
+
                     </p>
                 </div>
                 <div  class="card card-body-py-5">
                      <h3>
                          My Skills
                      </h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quibusdam a est ipsum, tenetur ducimus? Quo corrupti consequatur facilis ipsam provident quam cum, excepturi eligendi, sunt reiciendis nesciunt numquam. Veniam.</p>
+                     <p> This is the part you will see skills in my field which i have covered and the coverage per each skills, i hope this will help to know how good i am on each skills. 
               <hr>
               <h4>Programming</h4>
               <div class="progress mb-3">
@@ -113,6 +114,12 @@
             <div class="progress mb-3">
                 <div class="progress-bar bg-success" style="width:90%"></div>
             </div>
+            <h4>Deployment and cloud</h4>
+            <div class="progress mb-3">
+                <div class="progress-bar bg-success" style="width:80%"></div>
+            </div> 
+            
+
             <h4>Testing</h4>
             <div class="progress mb-3">
                 <div class="progress-bar bg-success" style="width:90%"></div>
@@ -125,8 +132,8 @@
             <div class="card card-body bg-success text-white py-5">
                 <h2>My Resume </h2>
                 <p class="lead">
-                    adipisicing elit. Omnis,distinctio facere tenetur. Numquam exercitationem adipisci, accusamus dolorum minima,
-                    dolorem blanditiis dicta in molestias harum recusandae!
+                    This is another interesting part which i have put summary of my work experience and also you can download the Curriculam Vitae(CV) to get full details and also i have added phone contact where you can check for reference of the my experience 
+            
                 </p>
             </div>
             <div class="card card-body py-5">
@@ -138,42 +145,45 @@
                     <div class="card">
                         <div class="card-body">
                             <h4 class="card-title">
-                                Devmasters
+                                Singo Africa
                             </h4>
-                            <p class="card-title"> adipisicing elit. Omnis,distinctio facere tenetur. Numquam exercitationem adipisci, accusamus dolorum minima</p>
-                            <p class="p-2 mb-3 bg-dark text-white">Position: Full Stack Webdeveloper</p>
-                                                        <p class="p-2 mb-3 bg-dark text-white">Phone: (+255) 2873273727</p>
+                            <p class="card-title">
+                                I have been worked as software developer dealing with handling back-end of Amala App suite system, by using JAVA and Spring boot framework with the use multitenant database architecture.
+                                 </p>
+                            <p class="p-2 mb-3 bg-dark text-white">Position: Software Developer</p>
+                                                        <p class="p-2 mb-3 bg-dark text-white">Phone: (+255)716087522</p>
                         </div>
                         <div class="card-footer">
-                            <h6 class="text-muted">Dates: 2015 - 2017</h6>
+                            <h6 class="text-muted">Dates: 2020 - present</h6>
                         </div>
                     </div>
                         <div class="card">
                             <div class="card-body">
                                 <h4 class="card-title">
-                                    Devmasters
+                                    Youth for Children)Y4C hub
                                 </h4>
-                                <p class="card-title"> adipisicing elit. Omnis,distinctio facere tenetur. Numquam exercitationem adipisci,
-                                    accusamus dolorum minima</p>
-                                <p class="p-2 mb-3 bg-dark text-white">Position: Full Stack Webdeveloper</p>
-                                <p class="p-2 mb-3 bg-dark text-white">Phone: (+255) 2873273727</p>
+                                <p class="card-title">
+                                    I have been working in creating two way sms platforms by creating different solution to the realltime chalenges facing society in Tanzania
+                                     </p>
+                                <p class="p-2 mb-3 bg-dark text-white">Position: U-Reporter </p>
+                                <p class="p-2 mb-3 bg-dark text-white">Phone: (+255)754557744</p>
                             </div>
                             <div class="card-footer">
-                                <h6 class="text-muted">Dates: 2015 - 2017</h6>
+                                <h6 class="text-muted">Dates: 2021- present</h6>
                             </div>
                         </div>
                             <div class="card">
                                 <div class="card-body">
                                     <h4 class="card-title">
-                                        Devmasters
+                                        Tazania Postal Banck(TPB)
                                     </h4>
-                                    <p class="card-title"> adipisicing elit. Omnis,distinctio facere tenetur. Numquam exercitationem adipisci,
-                                        accusamus dolorum minima</p>
-                                    <p class="p-2 mb-3 bg-dark text-white">Position: Full Stack Webdeveloper</p>
-                                    <p class="p-2 mb-3 bg-dark text-white">Phone: (+255) 2873273727</p>
+                                    <p class="card-title">This is the first work experience and i worked as website developer and i was among the team that developed the intranet site of the organization under PHP programming language
+                                        </p>
+                                    <p class="p-2 mb-3 bg-dark text-white">Position: Webdeveloper</p>
+                                    <p class="p-2 mb-3 bg-dark text-white">Phone: (+255)659280870</p>
                                 </div>
                                 <div class="card-footer">
-                                    <h6 class="text-muted">Dates: 2015 - 2017</h6>
+                                    <h6 class="text-muted">Dates: 2019 - 2019</h6>
                                 </div>
                             </div>
                 </div>
