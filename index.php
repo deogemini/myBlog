@@ -294,8 +294,8 @@
             <!----FOOTER-->
             <footer id="main-footer" class="p-5 bg-dark text-white">
                 <div class="row">
-                    <a href="#" class="btn btn-outline-light">
-                        <i class="fas fa-cloud"></i> Download My Resume
+                    <a href="cv.php" class="btn btn-outline-light">
+                        <i class="fas fa-cloud"></i> View My Resume
                     </a>
                 </div>
 
