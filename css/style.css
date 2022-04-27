@@ -393,6 +393,7 @@ header {
   }
 }
 
+/* my works */
 
 .my-work {
   background-color: var(--clr-dark);
@@ -400,7 +401,7 @@ header {
   text-align: center;
 }
 
-.portfolio {
+.portfolio{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 
