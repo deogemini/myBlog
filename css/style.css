@@ -70,7 +70,7 @@ strong {
   outline: 3px solid var(--clr-accent);
   outline-offset: 3px;
 
-}
+} 
 
 /* Buttons design */
 .btn {
@@ -356,7 +356,7 @@ header {
 
 
 .about-me {
-  max-width: 100px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
