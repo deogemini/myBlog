@@ -10,10 +10,10 @@
   --ff-secondary:'Source Sans Pro', monopace;
 
   --fw-reg:300;
-  -fw-bold: 900;
+  --fw-bold: 900;
 
   --clr-light: #fff;
-  --clr-text:#303030;
+  --clr-dark:#303030;
   --clr-accent: #16e0bd;
   
 
@@ -38,6 +38,11 @@
 }
 
 /* general style */
+
+html{
+  scroll-behavior: smooth;
+}
+
 body{
   background: var(--clr-light);
   color: var(--clr-dark);
@@ -186,6 +191,27 @@ header{
   position: absolute;
   right: 1em;
   z-index: 1000;
+}
+
+.nav-open .nav{
+  transform: translateX(0);
+}
+
+.nav-open .nav-toggle{
+  position: fixed;
+}
+
+.nav-open .hamburger{
+  transform: rotate(.625turn);
+}
+
+.nav-open .hamburger::before{
+  transform: rotate(90deg) translateX(6px);
+
+}
+
+.nav-open .hamburger::after{
+  opacity: 0;
 }
 
 
