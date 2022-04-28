@@ -216,11 +216,11 @@ header {
 }
 
 .nav-open .hamburger {
-  transform: rotate(.625turn);
+  transform: rotate(0.625turn);
 }
 
 .nav-open .hamburger::before {
-  transform: rotate(90deg) translateX(6px);
+  transform: rotate(90deg) translateX(-6px);
 
 }
 
@@ -237,7 +237,7 @@ header {
 .hamburger,
 .hamburger::before,
 .hamburger::after {
-  background: var(--clr-dark);
+  background: var(--clr-accent);
   width: 2em;
   height: 3px;
   border-radius: 1em;
