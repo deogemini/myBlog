@@ -487,3 +487,10 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
+
+/*to make a text to blink*/
+blink, .blink { animation: blink 1s step-end infinite; }
+
+@keyframes blink {
+  80% { opacity: 0 }
+}
