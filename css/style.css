@@ -59,6 +59,7 @@ section {
 
 img {
   display: block;
+  align-content: center;
   max-width: 100%;
 }
 
